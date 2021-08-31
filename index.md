@@ -1,4 +1,3 @@
-# Zhang Lab HPC Instructions
 By Hanrui Zhang on 08/30/2021
 
 
