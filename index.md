@@ -158,5 +158,9 @@ https://carpentries-incubator.github.io/hpc-intro/
 https://eaton-lab.org/articles/Eaton-lab-HPC-setup/     
 
 https://github.com/TheJacksonLaboratory/IntroToHPC     
+ 
+https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped        
+ 
+https://github.com/hbctraining/Intro-to-ChIPseq-flipped   
 
  
