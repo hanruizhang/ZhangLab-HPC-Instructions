@@ -41,11 +41,11 @@ date
 # End of script
 ```
 
-#### 
+#### Check the job status
 ```
-## Submit the job to the scheduling queue
+# Submit the job to the scheduling queue
 $ sbatch helloworld.sh
-## To view all jobs on the system and check whether the job has started yet
+# To view all jobs on the system and check whether the job has started yet
 $ squeue 
 # To view information about a particular job
 $ scontrol show job [job ID]
@@ -150,8 +150,13 @@ In order to access this library from your programs, make sure you add the follow
 #### May need to contact hpc-support@columbia.edu to install packages, but can try to install first.
 
 
+ 
 
 ## References
-https://eaton-lab.org/articles/Eaton-lab-HPC-setup/
+https://carpentries-incubator.github.io/hpc-intro/    
+ 
+https://eaton-lab.org/articles/Eaton-lab-HPC-setup/     
+
+https://github.com/TheJacksonLaboratory/IntroToHPC     
 
  
